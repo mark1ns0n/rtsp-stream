@@ -19,7 +19,7 @@ import (
 	"time"
 
 	"github.com/julienschmidt/httprouter"
-	"github.com/riltech/streamer"
+	"github.com/mark1ns0n/streamer"
 	"github.com/sirupsen/logrus"
 )
 

@@ -38,8 +38,8 @@
   version = "1.0.0"
 
 [[constraint]]
-  name = "github.com/riltech/streamer"
-  version = "1.0.1"
+  name = "github.com/mark1ns0n/streamer"
+  version = "1.0.3"
 
 [[constraint]]
   name = "github.com/kelseyhightower/envconfig"
