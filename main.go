@@ -6,12 +6,12 @@ import (
 	"log"
 	"net/http"
 	"os"
+	"rtsp-stream/core"
+	"rtsp-stream/core/config"
 
 	"github.com/julienschmidt/httprouter"
 	"github.com/rs/cors"
 
-	"github.com/Roverr/rtsp-stream/core"
-	"github.com/Roverr/rtsp-stream/core/config"
 	"github.com/sirupsen/logrus"
 )
 

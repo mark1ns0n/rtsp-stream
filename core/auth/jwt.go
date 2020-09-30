@@ -4,9 +4,9 @@ import (
 	"crypto/rsa"
 	"fmt"
 	"io/ioutil"
+	"rtsp-stream/core/config"
 	"strings"
 
-	"github.com/Roverr/rtsp-stream/core/config"
 	jwt "github.com/dgrijalva/jwt-go"
 	"github.com/sirupsen/logrus"
 )
